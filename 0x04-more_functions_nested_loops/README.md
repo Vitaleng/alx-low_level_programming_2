@@ -1,1 +1,1 @@
-Fizz-Buzz
+Triangles
