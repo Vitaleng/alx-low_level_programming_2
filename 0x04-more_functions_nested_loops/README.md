@@ -1,1 +1,1 @@
-isdigit
+Collaboration is multiplication
